@@ -8,6 +8,8 @@ ____
 
 #### Author information
 
-Joseph I. J. Ellaway
+Pandas/Matplotlib: Joseph I. J. Ellaway (josephellaway@gmail.com)
 
-Email: josephellaway@gmail.com
+
+Seaborn: Sofia Kapsiani (sofia.kapsiani@outlook.com)
+
