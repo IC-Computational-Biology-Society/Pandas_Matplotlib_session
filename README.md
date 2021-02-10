@@ -4,7 +4,8 @@ Download both the Jupyter notebook and ```session_data.zip``` in the same direct
 
 The session is intended to last approximately 2 hours and aims to act as an introduction to both Pandas and Matplotlib. 
 
-____
+*This tutorial is intended for educational use. If you would like to use any material herein for teaching or ulterior purposes outside the remit of the Imperial College Computational Biology Society, please contact the referenced authors.*
+
 
 #### Author information
 
